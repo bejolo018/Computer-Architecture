@@ -60,8 +60,13 @@ but you'll have to implement those three above instructions first!
 ## Step 0: IMPORTANT: inventory what is here!
 
 * Make a list of files here.
+-cpu.py
+-ls8.py
 * Write a short 3-10-word description of what each file does.
+cpu.py: The instructions
+ls8.py: What executes the instructions
 * Note what has been implemented, and what hasn't.
+Instructions and examples, project goals need to be implemented
 * Read this whole file.
 * Skim the spec.
 
